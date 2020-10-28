@@ -7,6 +7,7 @@
 import java.util.Arrays;
 
 public class RandDesc {
+
     public static int modifyArray(int arr[], int n) {
         if (n == 0 || n == 1) {
             return n;

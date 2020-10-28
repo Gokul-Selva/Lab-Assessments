@@ -3,6 +3,7 @@
 * Author: Gokul S
 */
 public class Sortinalpha {
+
     public static void main(String[] args) {
         String[] arr = { "Naveen", "Gokul", "Aravindhan", "Dinesh", "Sam" };
         String[] res = sortStrings(arr);

@@ -3,6 +3,7 @@
 * Author: Gokul S
 */
 public class Secondsmallest {
+
     public static int getSecondSmallest(int a[], int total) {
         int temp;
         for (int i = 0; i < total; i++) {
