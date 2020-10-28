@@ -1,6 +1,6 @@
 /*
 * Desc: To add salutation to names
-* Author: Gokul
+* Author: Gokul S
 */
 public class Salutationforname {
 	public static void main(String[] args) {

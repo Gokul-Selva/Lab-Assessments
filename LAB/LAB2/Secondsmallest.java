@@ -1,6 +1,6 @@
 /*
 * Desc: To accept the array of integer elements and return the second smallest element in tha array
-* Author: Gokul
+* Author: Gokul S
 */
 public class Secondsmallest {
     public static int getSecondSmallest(int a[], int total) {

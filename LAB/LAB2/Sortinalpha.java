@@ -1,6 +1,6 @@
 /*
 * Desc: To accept the array of string objects and sort in alphabetical order
-* Author: Gokul
+* Author: Gokul S
 */
 public class Sortinalpha {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
+
 /*
 * Desc: To remove the duplicates and result the array in descending order
-* Author: Gokul
+* Author: Gokul s
+*
 */
 import java.util.Arrays;
 
