@@ -1,4 +1,8 @@
-class Salutationforname {
+/*
+* Desc: To add salutation to names
+* Author: Gokul
+*/
+public class Salutationforname {
 	public static void main(String[] args) {
 		String[][] store = { { "Mr", "Pratik" }, { "Ms", "Aishwarya" }, { "Mrs", "Surya" }, { "Mr", "Dishant" },
 				{ "Mr", "Somesh" }, { "Mr", "Praveen" } };
