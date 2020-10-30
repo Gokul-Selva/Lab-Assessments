@@ -2,6 +2,7 @@
 *Desc: To replace the next consonant of the given string
 *Author: Gokul S
 */
+
 public class Replacenextconsonant {
 
     static boolean isVowel(char ch) {
